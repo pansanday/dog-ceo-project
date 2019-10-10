@@ -10,7 +10,7 @@ An example project use typescript，node.js and react.js skills
     cd client
     npm install
     ```
-4. execute command to start
+4. go back to dog-ceo-projects folder, execute command to start
     ```
     npm run dev
     ```
