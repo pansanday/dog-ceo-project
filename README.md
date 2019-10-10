@@ -3,7 +3,7 @@ An example project use typescript，node.js and react.js skills
 
 ### How to run
 1. clone project to local
-2. go to dog-ceo-project folder
+2. go to dog-ceo-projects folder
 3. install dependencies
     ```
     concurrently "npm install" "npm install --prefix client"
