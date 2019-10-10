@@ -6,7 +6,9 @@ An example project use typescript，node.js and react.js skills
 2. go to dog-ceo-projects folder
 3. install dependencies
     ```
-    concurrently "npm install" "npm install --prefix client"
+    npm install
+    cd client
+    npm install
     ```
 4. execute command to start
     ```
